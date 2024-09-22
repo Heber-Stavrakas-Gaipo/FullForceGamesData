@@ -1,0 +1,97 @@
+[
+  {
+    "gender": "Feminino",
+    "categories": [
+      {
+        "category": "RX",
+        "teams": [
+          {
+            "name": "Team Novinhas",
+            "points": { "Wod 1": 96, "Wod 2": 96, "Wod 3": 96, "Wod 4": 96, "Wod Final": 96 }
+          },
+          {
+            "name": "Team MedVet",
+            "points": { "Wod 1": 94.4, "Wod 2": 94.4, "Wod 3": 94.4, "Wod 4": 94.4, "Wod Final": 94.4 }
+          },
+          {
+            "name": "Team Das Antigas",
+            "points": { "Wod 1": 93.6, "Wod 2": 93.6, "Wod 3": 93.6, "Wod 4": 93.6, "Wod Final": 93.6 }
+          },
+          {
+            "name": "Team Mães Calejadas",
+            "points": { "Wod 1": 92, "Wod 2": 92, "Wod 3": 92, "Wod 4": 92, "Wod Final": 92 }
+          }
+        ]
+      },
+      {
+        "category": "Evo",
+        "teams": [
+          { "name": "Team Full Girls", "points": { "Wod 1": 100, "Wod 2": 100, "Wod 3": 98, "Wod 4": 98 } },
+          { "name": "Team Ho'Omou", "points": { "Wod 1": 98, "Wod 2": 96, "Wod 3": 100, "Wod 4": 100 } },
+          { "name": "Team Tias", "points": { "Wod 1": 96, "Wod 2": 98, "Wod 3": 96, "Wod 4": 96 } }
+        ]
+      },
+      {
+        "category": "Scale",
+        "teams": [
+          { "name": "Team Kettlebelas", "points": { "Wod 1": 100, "Wod 2": 100, "Wod 3": 98, "Wod 4": 96 } },
+          { "name": "Team 100 Cardio e 100 Força", "points": { "Wod 1": 98, "Wod 2": 98, "Wod 3": 96, "Wod 4": 94 } },
+          { "name": "Team Rep e NoRep", "points": { "Wod 1": 96, "Wod 2": 96, "Wod 3": 94, "Wod 4": 92 } },
+          { "name": "Team Fusão HS", "points": { "Wod 1": 94, "Wod 2": 94, "Wod 3": 92, "Wod 4": 90 } },
+          { "name": "Team Irmãs do Cross", "points": { "Wod 1": 92, "Wod 2": 92, "Wod 3": 90, "Wod 4": 88 } },
+          { "name": "Team Só o Pó Do Magnésio", "points": { "Wod 1": 90, "Wod 2": 88, "Wod 3": 86, "Wod 4": 84 } },
+          { "name": "Team GosFit", "points": { "Wod 1": 88, "Wod 2": 90, "Wod 3": 82, "Wod 4": 80 } },
+          { "name": "Team Turistas do Box", "points": { "Wod 1": 86, "Wod 2": 88, "Wod 3": 84, "Wod 4": 82 } },
+          { "name": "Team Intrusas", "points": { "Wod 1": 84, "Wod 2": 84, "Wod 3": 80, "Wod 4": 100 } },
+          { "name": "Team Janalu", "points": { "Wod 1": 82, "Wod 2": 86, "Wod 3": 100, "Wod 4": 98 } }
+        ]
+      }
+    ]
+  },
+  {
+    "gender": "Masculino",
+    "categories": [
+      {
+        "category": "RX",
+        "teams": [
+          {
+            "name": "Team Força e Honra",
+            "points": { "Wod 1": 100, "Wod 2": 100, "Wod 3": 100, "Wod 4": 100, "Wod Final": 100 }
+          },
+          {
+            "name": "Team RX Só Hoje",
+            "points": { "Wod 1": 93.6, "Wod 2": 93.6, "Wod 3": 93.6, "Wod 4": 93.6, "Wod Final": 93.6 }
+          },
+          {
+            "name": "Team Conexão Box83/CFSJDR",
+            "points": { "Wod 1": 89.6, "Wod 2": 89.6, "Wod 3": 89.6, "Wod 4": 89.6, "Wod Final": 89.6 }
+          },
+          {
+            "name": "Team Du Migué",
+            "points": { "Wod 1": 88.8, "Wod 2": 88.8, "Wod 3": 88.8, "Wod 4": 88.8, "Wod Final": 88.8 }
+          },
+          {
+            "name": "Team Heavy Kids",
+            "points": { "Wod 1": 88, "Wod 2": 88, "Wod 3": 88, "Wod 4": 88, "Wod Final": 88 }
+          }
+        ]
+      },
+      {
+        "category": "Evo",
+        "teams": [
+          { "name": "Team Heineken", "points": { "Wod 1": 100, "Wod 2": 98, "Wod 3": 100, "Wod 4": 100, "Wod Final": 100 } },
+          { "name": "Team Machines", "points": { "Wod 1": 98, "Wod 2": 100, "Wod 3": 98, "Wod 4": 98, "Wod Final": 98 } }
+        ]
+      },
+      {
+        "category": "Scale",
+        "teams": [
+          { "name": "Team Inimigos do Cardio", "points": { "Wod 1": 98, "Wod 2": 100, "Wod 3": 100, "Wod 4": 100 } },
+          { "name": "Team Padrinhos Mágicos", "points": { "Wod 1": 100, "Wod 2": 96, "Wod 3": 96, "Wod 4": 96 } },
+          { "name": "Team JiuTeam", "points": { "Wod 1": 96, "Wod 2": 98, "Wod 3": 98, "Wod 4": 96 } },
+          { "name": "Team Box83", "points": { "Wod 1": 94, "Wod 2": 94, "Wod 3": 94, "Wod 4": 94 } }
+        ]
+      }
+    ]
+  }
+]
